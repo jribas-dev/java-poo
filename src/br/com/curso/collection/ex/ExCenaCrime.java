@@ -1,4 +1,4 @@
-package br.com.curso.collection;
+package br.com.curso.collection.ex;
 
 import java.util.ArrayList;
 import java.util.Arrays;
