@@ -11,4 +11,4 @@
 	- Map (HashMap, LinedHashMap, TreeMap)
 	- Stream
 
-!(Visão Geral)[/assets/1-visao-geral-collections.png]
+![Visão Geral](./assets/1-visao-geral-collections.png)
