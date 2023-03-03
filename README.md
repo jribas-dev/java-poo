@@ -5,7 +5,7 @@
 	- Herança
 	- Interfaces
 
-- Uso do Framework da interface Collection
+- Uso do Framework Collections
 	- [List](./assets/2-list.png) (ArrayList, LinkedList)
 	- [Set](./assets/3-set.png) (HashSet, LinkedHashSet, TreeSet)
 	- [Map](./assets/4-map.png) (HashMap, LinedHashMap, TreeMap)
